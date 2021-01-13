@@ -2,10 +2,18 @@
 Monday warm ups
 
 
-[number guessing game](https://repl.it/@RSCharles/Number-guessing-game)
+[Number Guessing Game](https://repl.it/@RSCharles/Number-guessing-game)
 
-[Temp conversion](https://repl.it/@RSCharles/tempConv)
+[Temp Conversion](https://repl.it/@RSCharles/tempConv)
 
-[area determine-er](https://repl.it/@RSCharles/area)
+[Area Determine-er](https://repl.it/@RSCharles/area)
 
-[quote a quoe](https://repl.it/@RSCharles/quote-a-quote)
+[Quote a Quote](https://repl.it/@RSCharles/quote-a-quote)
+
+[String to Lowercase](https://repl.it/@RSCharles/LowerCase-Converter#main.cpp)
+
+[Reverse Word](https://repl.it/@RSCharles/ReverseWord#main.cpp)
+
+[Palindrome-WIP](https://repl.it/@RSCharles/Palindrome#main.cpp)
+
+[Password Complexity Checker](https://repl.it/@RSCharles/passwordComplex#main.cpp)
