@@ -1,6 +1,5 @@
 # AP-Module-C-Monday-Exercises-
-Monday warm ups
-
+Monday
 
 [Number Guessing Game](https://repl.it/@RSCharles/Number-guessing-game)
 
@@ -9,6 +8,8 @@ Monday warm ups
 [Area Determine-er](https://repl.it/@RSCharles/area)
 
 [Quote a Quote](https://repl.it/@RSCharles/quote-a-quote)
+
+Tuesday
 
 [String to Lowercase](https://repl.it/@RSCharles/LowerCase-Converter#main.cpp)
 
